@@ -1,0 +1,7 @@
+omegaconf
+vocos
+vector_quantize_pytorch
+transformers
+modelscope
+torch==2.1.2+cu121
+torchaudio==2.1.2+cu121
